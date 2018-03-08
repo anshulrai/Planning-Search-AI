@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__
+*.pyc
+*.zip
+*.json
+.idea/
+tests/.cache/v/cache/lastfailed
+.cache/v/cache/lastfailed
+.udacity-pa/projects.py
+CODEOWNERS
+images/statespace.png
+images/twotofive.png
+example_have_cake.py
+images/eatcake-graphplan2.png
