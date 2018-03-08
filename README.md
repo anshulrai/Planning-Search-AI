@@ -5,7 +5,7 @@
 
 This project includes the classes and functions needed to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent.
 With progression search algorithms optimal plans for each problem will be computed.  Unlike simple navigation problems, there is no simple distance heuristic to aid the agent.
-Instead, implement domain-independent heuristics are used.
+Instead, domain-independent heuristics are used.
 
 ![Progression air cargo search](images/Progression.PNG)
 
